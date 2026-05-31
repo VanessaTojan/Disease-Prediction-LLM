@@ -1,4 +1,4 @@
-# 🩺 Disease Prediction Chatbot Using Large Language Models (LLMs)
+# Disease Prediction Chatbot Using Large Language Models (LLMs)
 
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
